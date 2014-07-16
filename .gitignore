@@ -24,3 +24,6 @@ doc/
 .DS_Store
 .idea
 .secret
+/sample_app/nbproject/private/
+/nbproject/private/
+/sample_app_local/nbproject/private/
